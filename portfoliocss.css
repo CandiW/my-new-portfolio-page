@@ -1,3 +1,26 @@
 body {
     margin: 0 auto;
+    background: url("http://gdurl.com/y_8j") 100% fixed no-repeat;
+    text-align: center;
+    font-family: 'Nunito', sans-serif;
+}
+i {
+    display: inline;
+    margin: 15px;
+}
+.fa-twitter {
+    font-size: 25px;
+    color: rgb(1, 118, 252);
+}
+.fa-free-code-camp {
+    font-size: 25px;
+    color: green;
+}
+.fa-github {
+    font-size: 25px;
+    color: black;
+}
+.fa-codepen {
+    font-size: 25px;
+    color: black;
 }
